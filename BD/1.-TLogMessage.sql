@@ -1,0 +1,19 @@
+
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+IF  NOT EXISTS (SELECT 1 FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[TLogMessage]') 
+			AND type in (N'U'))
+BEGIN
+		CREATE TABLE [dbo].[TLogMessage](
+			id BIGINT IDENTITY(1,1) NOT NULL,
+			Message VARCHAR(MAX) NULL
+			) 
+
+END
+

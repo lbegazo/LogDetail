@@ -1,0 +1,15 @@
+D:\Luis\ConciliacionBancaria\Exercises\LogDetail\LogDetailTest\bin\Debug\LogDetailTest.dll
+D:\Luis\ConciliacionBancaria\Exercises\LogDetail\LogDetailTest\bin\Debug\LogDetailTest.pdb
+D:\Luis\ConciliacionBancaria\Exercises\LogDetail\LogDetailTest\bin\Debug\LogDetail.exe
+D:\Luis\ConciliacionBancaria\Exercises\LogDetail\LogDetailTest\bin\Debug\LogDetail.pdb
+D:\Luis\ConciliacionBancaria\Exercises\LogDetail\LogDetailTest\obj\Debug\LogDetailTest.csprojResolveAssemblyReference.cache
+D:\Luis\ConciliacionBancaria\Exercises\LogDetail\LogDetailTest\obj\Debug\LogDetailTest.dll
+D:\Luis\ConciliacionBancaria\Exercises\LogDetail\LogDetailTest\obj\Debug\LogDetailTest.pdb
+D:\Luis\GitHub\LogDetail\LogDetailTest\bin\Debug\LogDetailTest.dll
+D:\Luis\GitHub\LogDetail\LogDetailTest\bin\Debug\LogDetailTest.pdb
+D:\Luis\GitHub\LogDetail\LogDetailTest\bin\Debug\LogDetail.exe
+D:\Luis\GitHub\LogDetail\LogDetailTest\bin\Debug\LogDetail.pdb
+D:\Luis\GitHub\LogDetail\LogDetailTest\obj\Debug\LogDetailTest.csprojResolveAssemblyReference.cache
+D:\Luis\GitHub\LogDetail\LogDetailTest\obj\Debug\LogDetailTest.dll
+D:\Luis\GitHub\LogDetail\LogDetailTest\obj\Debug\LogDetailTest.pdb
+D:\Luis\GitHub\LogDetail\LogDetailTest\bin\Debug\LogDetailTest.dll.config

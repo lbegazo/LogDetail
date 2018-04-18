@@ -1,0 +1,17 @@
+D:\Luis\ConciliacionBancaria\Exercises\LogDetail\LogDetail\bin\Debug\LogDetail.exe.config
+D:\Luis\ConciliacionBancaria\Exercises\LogDetail\LogDetail\obj\Debug\LogDetail.csprojResolveAssemblyReference.cache
+D:\Luis\ConciliacionBancaria\Exercises\LogDetail\LogDetail\obj\Debug\LogDetail.Form1.resources
+D:\Luis\ConciliacionBancaria\Exercises\LogDetail\LogDetail\obj\Debug\LogDetail.Properties.Resources.resources
+D:\Luis\ConciliacionBancaria\Exercises\LogDetail\LogDetail\obj\Debug\LogDetail.csproj.GenerateResource.Cache
+D:\Luis\ConciliacionBancaria\Exercises\LogDetail\LogDetail\bin\Debug\LogDetail.exe
+D:\Luis\ConciliacionBancaria\Exercises\LogDetail\LogDetail\bin\Debug\LogDetail.pdb
+D:\Luis\ConciliacionBancaria\Exercises\LogDetail\LogDetail\obj\Debug\LogDetail.exe
+D:\Luis\ConciliacionBancaria\Exercises\LogDetail\LogDetail\obj\Debug\LogDetail.pdb
+D:\Luis\GitHub\LogDetail\LogDetail\bin\Debug\LogDetail.exe.config
+D:\Luis\GitHub\LogDetail\LogDetail\obj\Debug\LogDetail.exe
+D:\Luis\GitHub\LogDetail\LogDetail\obj\Debug\LogDetail.pdb
+D:\Luis\GitHub\LogDetail\LogDetail\bin\Debug\LogDetail.exe
+D:\Luis\GitHub\LogDetail\LogDetail\bin\Debug\LogDetail.pdb
+D:\Luis\GitHub\LogDetail\LogDetail\obj\Debug\LogDetail.Form1.resources
+D:\Luis\GitHub\LogDetail\LogDetail\obj\Debug\LogDetail.Properties.Resources.resources
+D:\Luis\GitHub\LogDetail\LogDetail\obj\Debug\LogDetail.csproj.GenerateResource.Cache
