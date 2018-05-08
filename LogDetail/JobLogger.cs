@@ -7,6 +7,8 @@ namespace LogDetail
 {
 
     /*
+     * 
+     * Luis begazo
      Comments and feedback
      
      *  Compilation errors:
